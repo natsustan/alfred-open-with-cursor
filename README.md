@@ -16,5 +16,7 @@ Install workflow and enter following keywords:
 ## Acknowledgements
 
 Fork from [alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow)
+
 Inspired by Raycast Extension [Cursor](https://www.raycast.com/degouville/cursor-recent-projects) 
+
 Developed with Cursor AI.
